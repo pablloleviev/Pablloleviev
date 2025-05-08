@@ -23,13 +23,14 @@
 <div align="center" style="background:#000000; padding:20px; border-radius:10px;">
   <h2 style="color:#ff003c; font-family:'Courier New', monospace;">🔐 Hacker Mode: ON</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=pablloleviev&show_icons=true&theme=dark&title_color=ff003c&icon_color=ff003c&text_color=ffffff&bg_color=000000&border_color=ff003c&custom_title=GitHub%20Stats%20-%20Pabllo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pablloleviev&show_icons=true&theme=dark&title_color=ff003c&icon_color=ff003c&text_color=ffffff&bg_color=000000&border_color=ff003c&custom_title=GitHub%20Stats%20-%20Pabllo" />
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablloleviev&theme=dark&ring=ff003c&fire=ff003c&currStreakLabel=ffffff&background=000000&dates=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pablloleviev&theme=dark&ring=ff003c&fire=ff003c&currStreakLabel=ffffff&background=000000&dates=ffffff" />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablloleviev&layout=compact&theme=dark&title_color=ff003c&text_color=ffffff&bg_color=000000&border_color=ff003c" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablloleviev&layout=compact&theme=dark&title_color=ff003c&text_color=ffffff&bg_color=000000&border_color=ff003c" />
 </div>
+
