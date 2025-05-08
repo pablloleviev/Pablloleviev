@@ -11,8 +11,15 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=pablloleviev&show_icons=true&theme=tokyonight&hide_title=false&custom_title=Pabllo%20Leviev%20Stats&hide=prs" />
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablloleviev&langs_count=5&theme=radical&hide=jupyter%20notebook&layout=compact" />
+  
+  <br><br>
+
+  <!-- Stats do GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pablloleviev&show_icons=true&theme=radical&hide_title=false&custom_title=Pabllo%20Leviev%20Stats&hide=prs" />
 </div>
+
 
 <h1 align="center">👋 Olá, eu sou o Pabllo Leviev</h1>
 <h3 align="center">Graduando em Ciência da Computação | Especialista em Tráfego Pago | Copywriter Estratégico</h3>
