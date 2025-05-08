@@ -13,11 +13,12 @@
 
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablloleviev&langs_count=5&theme=radical&hide=jupyter%20notebook&layout=compact" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=pablloleviev&show_icons=true&theme=radical&hide_title=false&custom_title=Pabllo%20Leviev%20Stats&hide=prs" /></td>
+      <td style="padding: 0; margin: 0;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablloleviev&langs_count=5&theme=radical&hide=jupyter%20notebook&layout=compact&card_width=300" style="border: none; width: 300px; height: 300px;" /></td>
+      <td style="padding: 0; margin: 0;"><img src="https://github-readme-stats.vercel.app/api?username=pablloleviev&show_icons=true&theme=radical&hide_title=false&custom_title=Pabllo%20Leviev%20Stats&hide=prs&card_width=300" style="border: none; width: 300px; height: 300px;" /></td>
     </tr>
   </table>
 </div>
+
 
 
 <h1 align="center">👋 Olá, eu sou o Pabllo Leviev</h1>
