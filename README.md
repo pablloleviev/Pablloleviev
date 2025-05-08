@@ -3,7 +3,7 @@
   
   <br><br>
 
-  <img src="https://img.shields.io/badge/ROI-100%25%2B-orange?style=for-the-badge&logo=fire" />
+  <img src="https://img.shields.io/badge/ROI-1000%25%2B-orange?style=for-the-badge&logo=fire" />
   <img src="https://img.shields.io/badge/TráfegoPago-Expert-blueviolet?style=for-the-badge&logo=googleads" />
   <img src="https://img.shields.io/badge/IA%20Aplicada-Conversão%20Real-brightgreen?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/Copywriter%20Estratégico-Mentalidade%20de%20Venda-critical?style=for-the-badge&logo=target" />
