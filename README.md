@@ -5,19 +5,8 @@
 
   <img src="https://img.shields.io/badge/ROI-1000%25%2B-orange?style=for-the-badge&logo=fire" />
   <img src="https://img.shields.io/badge/TráfegoPago-Expert-blueviolet?style=for-the-badge&logo=googleads" />
-  <img src="https://img.shields.io/badge/IA%20Aplicada-Conversão%20Real-brightgreen?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Copywriter%20Estratégico-Mentalidade%20de%20Venda-critical?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Projetos%20Digitais-7%2B%20Lançamentos-yellow?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/IA%20Aplicada-Conversão%20Real-bright
 
-  <br><br>
-
-  <table>
-    <tr>
-      <td style="padding: 0; margin: 0;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablloleviev&langs_count=5&theme=radical&hide=jupyter%20notebook&layout=compact&card_width=300" style="border: none; width: 300px; height: 300px;" /></td>
-      <td style="padding: 0; margin: 0;"><img src="https://github-readme-stats.vercel.app/api?username=pablloleviev&show_icons=true&theme=radical&hide_title=false&custom_title=Pabllo%20Leviev%20Stats&hide=prs&card_width=300" style="border: none; width: 300px; height: 300px;" /></td>
-    </tr>
-  </table>
-</div>
 
 
 
