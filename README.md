@@ -1,16 +1,19 @@
-<div align="center" style="background:#000000; padding:20px; border-radius:10px;">
-  <h2 style="color:#ff003c; font-family:'Courier New', monospace;">🔐 Hacker Mode: ON</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHubStats-by%20PablloLeviev-black?style=for-the-badge&logo=github" />
+  
+  <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Pablloleviev&show_icons=true&theme=dark&title_color=ff003c&icon_color=ff003c&text_color=ffffff&bg_color=000000&border_color=ff003c&custom_title=GitHub%20Stats%20-%20Pabllo" />
+  <img src="https://img.shields.io/badge/ROI-1000%25%2B-orange?style=for-the-badge&logo=fire" />
+  <img src="https://img.shields.io/badge/TráfegoPago-Expert-blueviolet?style=for-the-badge&logo=googleads" />
+  <img src="https://img.shields.io/badge/IA%20Aplicada-Conversão%20Real-brightgreen?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Copywriter%20Estratégico-Mentalidade%20de%20Venda-critical?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Projetos%20Digitais-7%2B%20Lançamentos-yellow?style=for-the-badge&logo=rocket" />
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pablloleviev&theme=dark&ring=ff003c&fire=ff003c&currStreakLabel=ffffff&background=000000&dates=ffffff" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablloleviev&layout=compact&theme=dark&title_color=ff003c&text_color=ffffff&bg_color=000000&border_color=ff003c" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pablloleviev&show_icons=true&theme=tokyonight&hide_title=false&custom_title=Pabllo%20Leviev%20Stats&hide=prs" />
 </div>
+
 <h1 align="center">👋 Olá, eu sou o Pabllo Leviev</h1>
 <h3 align="center">Graduando em Ciência da Computação | Especialista em Tráfego Pago | Copywriter Estratégico</h3>
 
