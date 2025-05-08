@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- README.md do GitHub Profile -->
 
-<!--
-**pablloleviev/Pablloleviev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>👋 Olá, eu sou o Pabllo Leviev</h1>
+  <h3>Graduando em Ciência da Computação | Especialista em Tráfego Pago | Copywriter Estratégico</h3>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Sobre Mim**
+
+🚀 Criador de produtos digitais com ROI insano  
+🧠 Aplico inteligência artificial para escalar conversão  
+🎯 Especialista em tráfego pago com foco em performance  
+👨‍💻 Apaixonado por código limpo, automações inteligentes e resultados reais
+
+---
+
+🧩 **Tecnologias & Ferramentas**
+
+```bash
+💻 Frontend: HTML • CSS • JavaScript • React  
+🧠 IA & Automações: Python • OpenAI APIs • Zapier • Make  
+📈 Marketing: Meta Ads • Google Ads • Copywriting • Funis de Venda  
+🛠️ Outros: Git • GitHub • VS Code • Canva • Notion
