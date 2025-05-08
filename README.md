@@ -1,7 +1,5 @@
-<div align="center">
-  <h1>👋 Olá, eu sou o Pabllo Leviev</h1>
+<h1>👋 Olá, eu sou o Pabllo Leviev</h1>
   <h3>Graduando em Ciência da Computação | Especialista em Tráfego Pago | Copywriter Estratégico</h3>
-</div>
 
 ---
 
