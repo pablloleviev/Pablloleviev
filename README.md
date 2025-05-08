@@ -11,16 +11,13 @@
 
   <br><br>
 
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <!-- Linguagens mais usadas -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablloleviev&langs_count=5&theme=radical&hide=jupyter%20notebook&layout=compact" />
-    
-    <!-- Stats do GitHub -->
-    <img src="https://github-readme-stats.vercel.app/api?username=pablloleviev&show_icons=true&theme=radical&hide_title=false&custom_title=Pabllo%20Leviev%20Stats&hide=prs" />
-  </div>
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablloleviev&langs_count=5&theme=radical&hide=jupyter%20notebook&layout=compact" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=pablloleviev&show_icons=true&theme=radical&hide_title=false&custom_title=Pabllo%20Leviev%20Stats&hide=prs" /></td>
+    </tr>
+  </table>
 </div>
-
-
 
 
 <h1 align="center">👋 Olá, eu sou o Pabllo Leviev</h1>
