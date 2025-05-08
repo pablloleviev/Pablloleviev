@@ -20,10 +20,16 @@
 📈 Marketing: Meta Ads • Google Ads • Copywriting • Funis de Venda  
 🛠️ Outros: Git • GitHub • VS Code • Canva • Notion
 
-<div align="center" style="background-color:#0d0d0d; padding: 20px; border-radius: 10px;">
-  <h2 style="color:#ff003c; font-family:monospace;">💀 Hacker Stats — Pabllo Leviev</h2>
-  
-  <img src="https://img.shields.io/badge/Código%20Limpo-100%25-red?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automações-IA%20Avançada-red?style=for-the-badge&logo=ghost&logoColor=white" />
+<div align="center" style="background:#000000; padding:20px; border-radius:10px;">
+  <h2 style="color:#ff003c; font-family:'Courier New', monospace;">🔐 Hacker Mode: ON</h2>
 
+  <img src="https://github-readme-stats.vercel.app/api?username=pablloleviev&show_icons=true&theme=dark&title_color=ff003c&icon_color=ff003c&text_color=ffffff&bg_color=000000&border_color=ff003c&custom_title=GitHub%20Stats%20-%20Pabllo" />
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablloleviev&theme=dark&ring=ff003c&fire=ff003c&currStreakLabel=ffffff&background=000000&dates=ffffff" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablloleviev&layout=compact&theme=dark&title_color=ff003c&text_color=ffffff&bg_color=000000&border_color=ff003c" />
 </div>
