@@ -15,7 +15,6 @@ Transformo problemas de negócio em sistemas eficientes. Minha abordagem une a p
 ---
 
 ### 🚀 Projetos em Destaque
-*(Foque nos mesmos do seu portfólio)*
 - **Sistema de Gestão para Oficina:** Redução de erros e controle total de faturamento.
 - **E-commerce de Moda:** Foco em UX e conversão de vendas.
 
