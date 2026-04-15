@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9aa2486e-d688-4c4c-b160-6456456dff68" width="100%" alt="Sistema de Gestão Premium">
+</p>
 # Olá, sou o Pabllo Leviev
 
 **Desenvolvedor Full Stack | Especialista em Processos e Conversão**
