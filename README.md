@@ -4,7 +4,7 @@
   <h1>Hey! Eu sou o Pabllo Leviev 👋</h1>
   
   <p>
-    <strong>Desenvolvedor Full Stack | Especialista em Automação e UX</strong><br>
+    <strong>Desenvolvedor Full Stack | Focado em Automação e UX</strong><br>
     Transformando ideias em sistemas de alta performance com foco em conversão e escalabilidade.
   </p>
 
