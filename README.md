@@ -21,7 +21,7 @@
 ---
 
 ### 🚀 Sobre Mim
-Eu não apenas escrevo código; eu construo soluções que resolvem problemas reais de negócio. Minha abordagem une a precisão técnica com uma visão estratégica de ROI e escalabilidade. Especialista em criar ecossistemas integrados que otimizam processos e maximizam resultados.
+Eu não apenas escrevo código; eu construo soluções que resolvem problemas reais de negócio. Minha abordagem une a precisão técnica com uma visão estratégica de ROI e escalabilidade. Focado em criar ecossistemas integrados que otimizam processos e maximizam resultados.
 
 ---
 
